@@ -1,4 +1,4 @@
-xfonts-encodings (1:1.0.4-deepin1) stable; urgency=medium
+xfonts-encodings (1:1.0.4-2.1deepin1) stable; urgency=medium
 
   * Change debian/compat to 13
 
